@@ -1,5 +1,9 @@
 # Wireless, Mobile & Linux Security Lab
 
+[← Repository overview](../README.md) · [Original PDF report](wireless-mobile-linux-security.pdf)
+
+> Privacy note: the hardcoded Google API key in the page 23 extracted-information table has been redacted. Its location, purpose, and security implications remain documented.
+
 > Portfolio write-up derived from the original 38-page university lab report provided by Smail Mersad. The original report contains screenshots and packet/tool output; this GitHub edition uses only results from that report and does not invent additional assets.
 
 **Academic context:** Amar Telidji University, Computer Science / Cybersecurity Engineering, 2025-2026.

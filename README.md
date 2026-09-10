@@ -20,11 +20,25 @@ A broad security lab covering wireless reconnaissance, WPA/WPA2 attacks, Bluetoo
 
 ## Included academic work
 
-| Lab | Portfolio write-up |
-|---|---|
-| Wireless, Mobile & Linux Security | [`docs/wireless-mobile-linux-security.md`](docs/wireless-mobile-linux-security.md) |
+| Lab | Portfolio write-up | Original PDF |
+|---|---|---|
+| Wireless, Mobile & Linux Security | [`docs/wireless-mobile-linux-security.md`](docs/wireless-mobile-linux-security.md) | [PDF report](docs/wireless-mobile-linux-security.pdf) |
+
+## Repository structure
+
+```text
+.
+├── README.md
+└── docs/
+    ├── *.md   # GitHub-friendly lab write-ups
+    └── *.pdf  # Original lab reports (privacy-redacted where noted)
+```
+
+The Markdown write-ups and supplied PDF reports form the complete available portfolio evidence. Screenshots, diagrams, and tool output are preserved inside the reports; standalone source code, captures, notebooks, and other artifacts are included only if supplied.
 
 ## Evidence policy
+
+Privacy note: the hardcoded Google API key in the page 23 extracted-information table has been redacted. Its location, purpose, and security implications remain documented.
 
 This repository uses only the supplied 38-page academic report and the evidence documented inside it. No additional wireless captures, APKs, screenshots, proxy traces, or source files are claimed. Failed or inconclusive tests are preserved as such instead of being rewritten as successful demonstrations.
 
